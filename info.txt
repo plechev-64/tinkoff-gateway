@@ -1,0 +1,8 @@
+Name: Tinkoff Gateway;
+Parent Addon: user-balance;
+Version: 1.1.2;
+Support Core: 16.24.0;
+ItemID: 19251;
+Description: Подключение сайта к эквайрингу банка Tinkoff https://tinkoff.ru;
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
